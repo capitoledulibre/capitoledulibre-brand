@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg4223"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pnneaux_temps_10minsvg.svg">
+  <defs
+     id="defs4225" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1926273"
+     inkscape:cx="778.57143"
+     inkscape:cy="355.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="2511"
+     inkscape:window-height="1422"
+     inkscape:window-x="49"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4228">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke:#b3b3b3;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g4171"
+       transform="matrix(0.36594217,0,0,0.36594217,655.76593,380.97103)">
+      <g
+         id="Layer_x0020_1"
+         style="stroke:#b3b3b3">
+        <circle
+           id="circle4162"
+           class="fil0 str0"
+           r="367"
+           cx="385"
+           cy="385"
+           style="fill:none;stroke:#b3b3b3;stroke-width:35.27000046" />
+        <polyline
+           id="polyline4164"
+           class="fil0 str1"
+           points="385 18 385 385 529 251"
+           style="fill:none;stroke:#b3b3b3;stroke-width:35.27000046;stroke-linecap:round" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-22.4592"
+       y="948.02197"
+       id="text4176"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4178"
+         x="-22.4592"
+         y="948.02197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:375px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:750px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '"
+           id="tspan4180">10</tspan><tspan
+           style="font-size:250px"
+           id="tspan4186">min</tspan></tspan></text>
+  </g>
+</svg>
