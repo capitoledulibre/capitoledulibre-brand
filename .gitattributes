@@ -1,0 +1,21 @@
+# Treat binary asset formats as binary so Git does not attempt text diffs.
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.webp   binary
+*.tiff   binary
+*.ico    binary
+*.pdf    binary
+*.eps    binary
+*.psd    binary
+*.ai     binary
+*.afdesign binary
+*.afphoto  binary
+*.afpub    binary
+*.xcf    binary
+*.sketch binary
+*.fig    binary
+
+# SVG is XML — keep as text so diffs remain readable.
+*.svg    text

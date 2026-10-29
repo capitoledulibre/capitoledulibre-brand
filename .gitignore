@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor backups and swap files
+*~
+*.swp
+*.swo
+*.bak
+
+# LibreOffice / OpenOffice lock files
+.~lock.*#
+
+# Inkscape autosaves
+*.svg.[0-9]*_[0-9]*_[0-9]*_[0-9]*_[0-9]*_[0-9]*.0.svg
