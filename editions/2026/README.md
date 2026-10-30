@@ -24,6 +24,12 @@ closing, answers). Signage will be added as it is produced.
 t-shirt front artwork and adds a sponsor band (sponsors as listed on
 capitoledulibre.org on 2026-10-29).
 
+`flyer/flyer-cdl-2026.*` is the A5 version of the v2 poster for
+print: 152×214 mm document (148×210 mm trim + 2 mm bleed on each
+side), all content kept 2 mm inside the trim. The SVG has
+non-printing trim and safety guides; the PNG is 300 dpi; the PDF has
+text converted to paths.
+
 `social/speaker-*` is a ready-to-use kit for speakers ("J'interviens
 au Capitole du Libre"): X/Mastodon/Bluesky header (1500×500),
 LinkedIn banner (1584×396), landscape post / link preview
